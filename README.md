@@ -6,7 +6,7 @@ so that it is easier to locate.
 # Install
 
 * Clone this repo.
-* Copy the Find_pointer.swift file to its final location.
+* Copy the find_pointer.swift file to its final location.
 
 # Setup
 
@@ -18,7 +18,7 @@ type "Run Shell Script" and drag it into the main canvas.
 * Set the shell field to /bin/bash or /bin/zsh.
 * Inside the text block, provide the absolute path to your file:
 ```shell
-/usr/bin/swift /Users/YOUR_USERNAME/path/to/Find_pointer.swift
+/usr/bin/swift /Users/YOUR_USERNAME/path/to/find_pointer.swift
 ```
 * Click the Shortcut Settings / Info panel icon
 (the small "i" icon on the right sidebar).
